@@ -1,4 +1,4 @@
 vim
 ===
 
-vim settings
+.vimrc and setup related things along that line.
