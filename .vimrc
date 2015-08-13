@@ -4,9 +4,9 @@ syntax enable
 "colorscheme solarized
 colorscheme distinguished
 
-set tabstop=4 " size of hard tabstop
-set shiftwidth=4 " size of indent
-set expandtab " use spaces, no tab. Use for python
+set tabstop=2 " size of hard tabstop
+set shiftwidth=2 " size of indent
+set expandtab " use spaces, no tab
 "set number
 set ic
 set hlsearch
