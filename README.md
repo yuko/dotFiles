@@ -1,4 +1,4 @@
-vim
+dotFiles
 ===
 
-.vimrc and setup related things along that line.
+Setup related things.
